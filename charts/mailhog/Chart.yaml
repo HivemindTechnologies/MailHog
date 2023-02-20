@@ -1,0 +1,6 @@
+apiVersion: v2
+name: mailhog
+description: A Helm chart for MailHog
+type: application
+version: 0.1.0
+appVersion: "latest"
